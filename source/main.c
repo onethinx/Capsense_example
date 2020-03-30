@@ -34,7 +34,7 @@
  * Example code for Capsense on the Onethinx Core 
  * 
  * For a description please see:
- * https://github.com/onethinx/OnethinxCoreAPI
+ * https://github.com/onethinx/Capsense_example
  *
  ********************************************************************************/
 
